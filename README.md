@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Daniel 👋
+
+I'm a software engineer who is passionate about creating GUI applications. My favorite technologies are C++ and Python. Some GUI frameworks I've used are wxWidgets (C++), dearImGUI (C++), and tkinter (Python). 
 
 <!--
 **dkim344/dkim344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
